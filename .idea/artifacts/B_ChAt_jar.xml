@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="B_ChAt:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/B_ChAt_jar</output-path>
+    <root id="archive" name="B_ChAt.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/B_messege/src/main/resources/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="B_client" />
+      <element id="module-output" name="B_messege" />
+      <element id="module-output" name="B_ChAt" />
+      <element id="module-output" name="B_server" />
+    </root>
+  </artifact>
+</component>
